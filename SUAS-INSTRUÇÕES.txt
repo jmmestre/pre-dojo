@@ -1,2 +1,18 @@
-Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
-quando estivermos avaliando a sua solução
+Olá,
+
+Não foi feito nada demais para resolver esse problema.
+
+Estou listando as seguintes informações:
+
+Partida: Número da partida.
+Assassinos: Lista dos jogadores que mataram.
+Mortes: Lista dos jogadores que morreram.
+Armas: Armas utilizadas.
+
+Desculpem, mas devido ao pouco tempo que tenho, não fiz da melhor forma possivel.
+
+Não foi realizado nenhum teste.
+
+Obrigado,
+
+José Mario Mestre
